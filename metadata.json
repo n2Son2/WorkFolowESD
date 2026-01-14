@@ -1,0 +1,7 @@
+{
+  "name": "Workflow Analyzer & Schema Architect",
+  "description": "An intelligent tool to analyze business workflows from flowcharts and generate optimized database schema suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
